@@ -1,1 +1,2 @@
 Podemos adicionar arquivos de diversas extensões no git.
+(CTRL + J ABRE O TERMINAL)
