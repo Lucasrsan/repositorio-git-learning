@@ -15,5 +15,18 @@ O Git é um sistema de controle de versão que permite que você acompanhe mudan
 
 É uma plataforma online que hospeda os repositórios Git. Ele facilita o compartilhamento, a colaboração e a contribuição em projetos com outras pessoas pela internet.
 
-# Comandos básicos do Git
+## Comandos básicos do Git
 
+## Convenção dos commits
+A covenção dos commits é uma forma padronizada de mensagens de commit que facilita a leitura por humanos e ferramentas automatizadas.
+### Tipos mais comuns
+- feat: adiciona um novo recurso (corresponde a uma versão minor)
+- fix: corrige um bug (corresponde a uma versão patch)
+- docs: mudanças na documentação
+- style: mudanças de formatação (espaços, ponto e vírgula etc.)
+- refactor: refatoração de código sem alterar comportamento
+- test: adição ou modificação de testes
+- build: mudanças em arquivos de build ou dependências
+- ci: alterações em configurações de integração contínua
+- chore: tarefas diversas que não afetam o código de produção
+- perf: melhorias de performance
